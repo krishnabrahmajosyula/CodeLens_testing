@@ -1,5 +1,7 @@
 Commit Messages:
 --------------------------------------------------
+Message: testing the documentation
+--------------------------------------------------
 Message: commit 1
 --------------------------------------------------
 Message: Update README.md
