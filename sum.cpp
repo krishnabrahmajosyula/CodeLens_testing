@@ -8,6 +8,6 @@ int main(void)
     }
     cout<<"Printing the elements is done"<<endl;
     cout<<endl;
-    // adding adebugging comment
+    // adding a debugging comment
     return 0;
 }
