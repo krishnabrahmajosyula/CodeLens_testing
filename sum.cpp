@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-// small change
 int main(void)
 {
     int arr[10]={0};
