@@ -1,5 +1,7 @@
 Commit Messages:
 --------------------------------------------------
+Message: testing the working of the tool
+--------------------------------------------------
 Message: testing the documentation
 --------------------------------------------------
 Message: commit 1
